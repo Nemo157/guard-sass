@@ -3,6 +3,6 @@ module Guard
   end
 
   class Sass < Guard
-    VERSION = '0.1.1'
+    VERSION = '0.1.2a'
   end
 end
